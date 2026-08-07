@@ -718,7 +718,251 @@
 				3,
 				3
 			]
-		}
+		},
+		{
+			"buy": 0,
+			"harvest": {
+				"extra_chance": 0.05,
+				"level_increase": 3,
+				"max": 4,
+				"min": 2
+			},
+			"id": "ancientfiber",
+			"index": 114,
+			"name": "Ancient Fiber",
+			"seasons": [
+				"summer"
+			],
+			"sell": 145,
+			"stages": [
+				2,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 60,
+			"harvest": {},
+			"id": "butternutsquash",
+			"index": 490,
+			"name": "Butternut Squash",
+			"seasons": [
+				"summer"
+			],
+			"sell": 200,
+			"stages": [
+				1,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 150,
+			"harvest": {
+				"extra_chance": 0.03,
+				"level_increase": 20,
+				"max": 3,
+				"min": 2
+			},
+			"id": "cucumber",
+			"index": 475,
+			"name": "Cucumber",
+			"seasons": [
+				"spring"
+			],
+			"sell": 35,
+			"stages": [
+				1,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "goldcarrot",
+			"index": 885,
+			"name": "Gold Carrot",
+			"seasons": [
+				"spring",
+				"summer",
+				"fall"
+			],
+			"sell": 1000,
+			"stages": [
+				1,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"buy": 6500,
+			"harvest": {
+				"extra_chance": 0.05,
+				"level_increase": 15,
+				"max": 3,
+				"min": 1
+			},
+			"id": "jojaberry",
+			"index": 805,
+			"name": "Joja Berry",
+			"regrow": 4,
+			"seasons": [
+				"spring",
+				"summer",
+				"fall"
+			],
+			"sell": 650,
+			"stages": [
+				5,
+				5,
+				5,
+				5,
+				5
+			],
+			"trellis": true
+		},
+		{
+			"buy": 600,
+			"harvest": {},
+			"id": "jojaveggie",
+			"index": 475,
+			"name": "Joja Veggie",
+			"seasons": [
+				"spring",
+				"summer",
+				"fall"
+			],
+			"sell": 1140,
+			"stages": [
+				2,
+				3,
+				4,
+				4
+			],
+			"trellis": true
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "monsterfruit",
+			"index": 493,
+			"name": "Monster Fruit",
+			"seasons": [
+				"summer"
+			],
+			"sell": 1525,
+			"stages": [
+				3,
+				6,
+				6,
+				5,
+				5
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "monstermushroom",
+			"index": 484,
+			"name": "Monster Mushroom",
+			"seasons": [
+				"fall"
+			],
+			"sell": 850,
+			"stages": [
+				2,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {
+				"extra_chance": 0.02,
+				"level_increase": 3,
+				"max": 4,
+				"min": 2
+			},
+			"id": "salalberry",
+			"index": 484,
+			"name": "Salal Berry",
+			"seasons": [
+				"spring",
+				"summer"
+			],
+			"sell": 75,
+			"stages": [
+				2,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "slimeberry",
+			"index": 492,
+			"name": "Slime Berry",
+			"regrowth": 4,
+			"seasons": [
+				"spring"
+			],
+			"sell": 65,
+			"stages": [
+				2,
+				3,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 90,
+			"harvest": {},
+			"id": "sweetpotato",
+			"index": 492,
+			"name": "Sweet Potato",
+			"seasons": [
+				"fall"
+			],
+			"sell": 280,
+			"stages": [
+				1,
+				2,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "voidroot",
+			"index": 492,
+			"name": "Void Root",
+			"seasons": [
+				"winter"
+			],
+			"sell": 75,
+			"stages": [
+				2,
+				2,
+				2,
+				2
+			]
+		},
 	],
 	"fertilizer": [
 		{
