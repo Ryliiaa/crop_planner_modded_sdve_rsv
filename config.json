@@ -1029,12 +1029,20 @@
 				"name": "Olivia"
 			},
 			{
+				"day": 17,
+				"name": "Philip"
+			},
+			{
 				"day": 18,
 				"name": "Pam"
 			},
 			{
 				"day": 20,
 				"name": "Shane"
+			},
+			{
+				"day": 22,
+				"name": "Sean"
 			},
 			{
 				"day": 23,
@@ -1089,6 +1097,10 @@
 				"name": "Sam"
 			},
 			{
+				"day": 18,
+				"name": "Kenneth"
+			},
+			{
 				"day": 19,
 				"name": "Demetrius"
 			},
@@ -1132,8 +1144,16 @@
 				"name": "Jodi"
 			},
 			{
+				"day": 12,
+				"name": "June"
+			},
+			{
 				"day": 13,
 				"name": "Abigail"
+			},
+			{
+				"day": 14,
+				"name": "Ian"
 			},
 			{
 				"day": 15,
@@ -1147,6 +1167,11 @@
 			{
 				"day": 18,
 				"name": "Marnie"
+			},
+			{
+				"day": 20,
+				"name": "Ridgeside Gathering",
+				"festival": true
 			},
 			{
 				"day": 21,
@@ -1170,6 +1195,10 @@
 			{
 				"day": 1,
 				"name": "Krobus"
+			},
+			{
+				"day": 2,
+				"name": "Jeric"
 			},
 			{
 				"day": 3,
@@ -1228,6 +1257,15 @@
 			{
 				"day": 27,
 				"name": "Sophia"
+			},
+			{
+				"day": 28,
+				"name": "Shiro"
+			},
+			{
+				"day": 28,
+				"name": "Ember of Resolution",
+				"festival": true
 			}
 		]
 	}
