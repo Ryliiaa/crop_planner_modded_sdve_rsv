@@ -996,6 +996,10 @@
 	"events": {
 		"spring": [
 			{
+				"day": 1,
+				"name": "Torts"
+			},
+			{
 				"day": 2,
 				"name": "Morris"
 			},
@@ -1028,6 +1032,10 @@
 				"name": "Ysabelle"
 			},
 			{
+				"day": 12,
+				"name": "Ezekiel"
+			},
+			{
 				"day": 13,
 				"name": "Egg Festival",
 				"festival": true
@@ -1037,8 +1045,16 @@
 				"name": "Haley"
 			},
 			{
+				"day": 14,
+				"name": "Maive"
+			},
+			{
 				"day": 15,
 				"name": "Olivia"
+			},
+			{
+				"day": 16,
+				"name": "Trinnie"
 			},
 			{
 				"day": 17,
@@ -1047,6 +1063,10 @@
 			{
 				"day": 18,
 				"name": "Pam"
+			},
+			{
+				"day": 18,
+				"name": "Naomi"
 			},
 			{
 				"day": 20,
@@ -1072,12 +1092,24 @@
 			{
 				"day": 27,
 				"name": "Emily"
+			},
+			{
+				"day": 28,
+				"name": "Bert"
+			},
+			{
+				"day": 28,
+				"name": "Sonny"
 			}
 		],
 		"summer": [
 			{
 				"day": 1,
 				"name": "Bryle"
+			},
+			{
+				"day": 2,
+				"name": "Lola"
 			},
 			{
 				"day": 4,
@@ -1094,6 +1126,10 @@
 			{
 				"day": 8,
 				"name": "Gus"
+			},
+			{
+				"day": 9,
+				"name": "Olga"
 			},
 			{
 				"day": 10,
@@ -1121,6 +1157,10 @@
 				"name": "Flor"
 			},
 			{
+				"day": 16,
+				"name": "Lenny"
+			},
+			{
 				"day": 17,
 				"name": "Sam"
 			},
@@ -1145,12 +1185,24 @@
 				"name": "Willy"
 			},
 			{
+				"day": 25,
+				"name": "Mr. Aguar"
+			},
+			{
+				"day": 27,
+				"name": "Malaya"
+			},
+			{
 				"day": 28,
 				"name": "Dance of the Moonlight Jellies",
 				"festival": true
 			}
 		],
 		"fall": [
+			{
+				"day": 1,
+				"name": "Lorenzo"
+			},
 			{
 				"day": 2,
 				"name": "Penny"
@@ -1160,8 +1212,20 @@
 				"name": "Zayne"
 			},
 			{
+				"day": 3,
+				"name": "Richard"
+			},
+			{
+				"day": 4,
+				"name": "Yuuma"
+			},
+			{
 				"day": 5,
 				"name": "Elliot"
+			},
+			{
+				"day": 5,
+				"name": "Kimpoi"
 			},
 			{
 				"day": 7,
@@ -1170,6 +1234,10 @@
 			{
 				"day": 8,
 				"name": "Claire"
+			},
+			{
+				"day": 9,
+				"name": "Ariah"
 			},
 			{
 				"day": 11,
@@ -1208,6 +1276,10 @@
 			{
 				"day": 21,
 				"name": "Robin"
+			},
+			{
+				"day": 21,
+				"name": "Carmen"
 			},
 			{
 				"day": 23,
@@ -1266,12 +1338,20 @@
 				"name": "Sebastian"
 			},
 			{
+				"day": 11,
+				"name": "Keahi"
+			},
+			{
 				"day": 12,
 				"name": "Gunther"
 			},
 			{
 				"day": 14,
 				"name": "Harvey"
+			},
+			{
+				"day": 16,
+				"name": "Louie"
 			},
 			{
 				"day": 17,
@@ -1282,12 +1362,20 @@
 				"name": "Magnus"
 			},
 			{
+				"day": 18,
+				"name": "Freddie"
+			},
+			{
 				"day": 19,
 				"name": "Marlon"
 			},
 			{
 				"day": 20,
 				"name": "Evelyn"
+			},
+			{
+				"day": 21,
+				"name": "Pika"
 			},
 			{
 				"day": 23,
@@ -1301,6 +1389,10 @@
 			{
 				"day": 26,
 				"name": "Clint"
+			},
+			{
+				"day": 26,
+				"name": "Shanice"
 			},
 			{
 				"day": 27,
