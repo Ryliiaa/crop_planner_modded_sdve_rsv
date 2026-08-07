@@ -1042,11 +1042,7 @@
 			},
 			{
 				"day": 14,
-				"name": "Haley"
-			},
-			{
-				"day": 14,
-				"name": "Maive"
+				"name": "Haley & Maive"
 			},
 			{
 				"day": 15,
@@ -1062,11 +1058,7 @@
 			},
 			{
 				"day": 18,
-				"name": "Pam"
-			},
-			{
-				"day": 18,
-				"name": "Naomi"
+				"name": "Pam & Naomi"
 			},
 			{
 				"day": 20,
@@ -1095,11 +1087,7 @@
 			},
 			{
 				"day": 28,
-				"name": "Bert"
-			},
-			{
-				"day": 28,
-				"name": "Sonny"
+				"name": "Bert & Sonny"
 			}
 		],
 		"summer": [
@@ -1146,11 +1134,7 @@
 			},
 			{
 				"day": 13,
-				"name": "Alex"
-			},
-			{
-				"day": 13,
-				"name": "Kiarra"
+				"name": "Alex & Kiarra"
 			},
 			{
 				"day": 14,
@@ -1205,11 +1189,7 @@
 			},
 			{
 				"day": 2,
-				"name": "Penny"
-			},
-			{
-				"day": 2,
-				"name": "Zayne"
+				"name": "Penny & Zayne"
 			},
 			{
 				"day": 3,
@@ -1221,11 +1201,7 @@
 			},
 			{
 				"day": 5,
-				"name": "Elliot"
-			},
-			{
-				"day": 5,
-				"name": "Kimpoi"
+				"name": "Elliot & Kimpoi"
 			},
 			{
 				"day": 7,
@@ -1275,11 +1251,7 @@
 			},
 			{
 				"day": 21,
-				"name": "Robin"
-			},
-			{
-				"day": 21,
-				"name": "Carmen"
+				"name": "Robin & Carmen"
 			},
 			{
 				"day": 23,
@@ -1295,12 +1267,8 @@
 			},
 			{
 				"day": 27,
-				"name": "Spirit's Eve",
+				"name": "Spirit's Eve (Paula's Birthday)",
 				"festival": true
-			},
-			{
-				"day": 27,
-				"name": "Paula"
 			},
 			{
 				"day": 28,
@@ -1359,11 +1327,7 @@
 			},
 			{
 				"day": 18,
-				"name": "Magnus"
-			},
-			{
-				"day": 18,
-				"name": "Freddie"
+				"name": "Magnus & Freddie"
 			},
 			{
 				"day": 19,
@@ -1388,27 +1352,15 @@
 			},
 			{
 				"day": 26,
-				"name": "Clint"
-			},
-			{
-				"day": 26,
-				"name": "Shanice"
+				"name": "Clint & Shanice"
 			},
 			{
 				"day": 27,
-				"name": "Sophia"
-			},
-			{
-				"day": 27,
-				"name": "Irene"
+				"name": "Sophia & Irene"
 			},
 			{
 				"day": 28,
-				"name": "Shiro"
-			},
-			{
-				"day": 28,
-				"name": "Ember of Resolution",
+				"name": "Ember of Resolution (Shiro's Birthday)",
 				"festival": true
 			}
 		]
