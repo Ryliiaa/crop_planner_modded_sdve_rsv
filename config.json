@@ -1042,7 +1042,8 @@
 			},
 			{
 				"day": 14,
-				"name": "Haley & Maive"
+				"name": "Haley & Maive",
+				"id": "haley_and_maive"
 			},
 			{
 				"day": 15,
@@ -1058,7 +1059,8 @@
 			},
 			{
 				"day": 18,
-				"name": "Pam & Naomi"
+				"name": "Pam & Naomi",
+				"id": "pam_and_naomi"
 			},
 			{
 				"day": 20,
@@ -1087,7 +1089,8 @@
 			},
 			{
 				"day": 28,
-				"name": "Bert & Sonny"
+				"name": "Bert & Sonny",
+				"id": "bert_and_sonny"
 			}
 		],
 		"summer": [
@@ -1134,7 +1137,8 @@
 			},
 			{
 				"day": 13,
-				"name": "Alex & Kiarra"
+				"name": "Alex & Kiarra",
+				"id": "alex_and_kiarra"
 			},
 			{
 				"day": 14,
@@ -1189,7 +1193,8 @@
 			},
 			{
 				"day": 2,
-				"name": "Penny & Zayne"
+				"name": "Penny & Zayne",
+				"id": "penny_and_zayne"
 			},
 			{
 				"day": 3,
@@ -1201,7 +1206,8 @@
 			},
 			{
 				"day": 5,
-				"name": "Elliot & Kimpoi"
+				"name": "Elliot & Kimpoi",
+				"id": "elliot_and_kimpoi"
 			},
 			{
 				"day": 7,
@@ -1251,7 +1257,8 @@
 			},
 			{
 				"day": 21,
-				"name": "Robin & Carmen"
+				"name": "Robin & Carmen",
+				"id": "robin_and_carmen"
 			},
 			{
 				"day": 23,
@@ -1327,7 +1334,8 @@
 			},
 			{
 				"day": 18,
-				"name": "Magnus & Freddie"
+				"name": "Magnus & Freddie",
+				"id": "magnus_and_freddie"
 			},
 			{
 				"day": 19,
@@ -1352,11 +1360,13 @@
 			},
 			{
 				"day": 26,
-				"name": "Clint & Shanice"
+				"name": "Clint & Shanice",
+				"id": "clint_and_shanice"
 			},
 			{
 				"day": 27,
-				"name": "Sophia & Irene"
+				"name": "Sophia & Irene",
+				"id": "sophie_and_irene"
 			},
 			{
 				"day": 28,
