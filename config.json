@@ -996,12 +996,20 @@
 	"events": {
 		"spring": [
 			{
+				"day": 2,
+				"name": "Morris"
+			},
+			{
 				"day": 4,
 				"name": "Kent"
 			},
 			{
 				"day": 7,
 				"name": "Lewis"
+			},
+			{
+				"day": 8,
+				"name": "Lance"
 			},
 			{
 				"day": 10,
@@ -1017,12 +1025,20 @@
 				"name": "Haley"
 			},
 			{
+				"day": 15,
+				"name": "Olivia"
+			},
+			{
 				"day": 18,
 				"name": "Pam"
 			},
 			{
 				"day": 20,
 				"name": "Shane"
+			},
+			{
+				"day": 23,
+				"name": "Andy"
 			},
 			{
 				"day": 24,
@@ -1042,6 +1058,14 @@
 			{
 				"day": 4,
 				"name": "Jas"
+			},
+			{
+				"day": 6,
+				"name": "Martin"
+			},
+			{
+				"day": 7,
+				"name": "Scarlett"
 			},
 			{
 				"day": 8,
@@ -1073,6 +1097,10 @@
 				"name": "Dwarf"
 			},
 			{
+				"day": 23,
+				"name": "Victor"
+			},
+			{
 				"day": 24,
 				"name": "Willy"
 			},
@@ -1090,6 +1118,14 @@
 			{
 				"day": 5,
 				"name": "Elliot"
+			},
+			{
+				"day": 7,
+				"name": "Morgan"
+			},
+			{
+				"day": 8,
+				"name": "Claire"
 			},
 			{
 				"day": 11,
@@ -1124,6 +1160,10 @@
 				"day": 27,
 				"name": "Spirit's Eve",
 				"festival": true
+			},
+			{
+				"day": 28,
+				"name": "Susan"
 			}
 		],
 		"winter": [
@@ -1149,12 +1189,24 @@
 				"name": "Sebastian"
 			},
 			{
+				"day": 12,
+				"name": "Gunther"
+			},
+			{
 				"day": 14,
 				"name": "Harvey"
 			},
 			{
 				"day": 17,
 				"name": "Wizard"
+			},
+			{
+				"day": 18,
+				"name": "Magnus"
+			},
+			{
+				"day": 19,
+				"name": "Marlon"
 			},
 			{
 				"day": 20,
@@ -1172,6 +1224,10 @@
 			{
 				"day": 26,
 				"name": "Clint"
+			},
+			{
+				"day": 27,
+				"name": "Sophia"
 			}
 		]
 	}
