@@ -962,7 +962,78 @@
 				2,
 				2
 			]
-		}
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "broccoli",
+			"index": 489,
+			"name": "Broccoli",
+			"regrowth": 4,
+			"seasons": [
+				"fall"
+			],
+			"sell": 70,
+			"stages": [
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "powdermelon",
+			"index": 489,
+			"name": "Powdermelon",
+			"seasons": [
+				"winter"
+			],
+			"sell": 60,
+			"stages": [
+				1,
+				1,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"buy": 30,
+			"harvest": {},
+			"id": "carrot",
+			"index": 489,
+			"name": "Carrot",
+			"seasons": [
+				"spring"
+			],
+			"sell": 35,
+			"stages": [
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "summer_squash",
+			"index": 489,
+			"name": "Summer Squash",
+			"regrowth": 3,
+			"seasons": [
+				"summer"
+			],
+			"sell": 45,
+			"stages": [
+				1,
+				1,
+				1,
+				1,
+				2
+			]
+		},
 	],
 	"fertilizer": [
 		{
