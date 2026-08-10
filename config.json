@@ -1072,8 +1072,8 @@
 			"buy": 0,
 			"growth_rate": 0.33,
 			"id": "hyper_speed_gro",
-			"name": "DHyper Speed-Gro"
-		},
+			"name": "Hyper Speed-Gro"
+		}
 	],
 	"events": {
 		"spring": [
