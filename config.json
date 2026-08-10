@@ -28,8 +28,7 @@
 			"seasons": [
 				"spring",
 				"summer",
-				"fall",
-				"winter"
+				"fall"
 			],
 			"sell": 550,
 			"stages": [
@@ -1034,7 +1033,7 @@
 				1,
 				2
 			]
-		},
+		}
 	],
 	"fertilizer": [
 		{
@@ -1053,6 +1052,11 @@
 			"name": "Quality Fertilizer"
 		},
 		{
+			"buy": 0,
+			"id": "deluxe_fertilizer",
+			"name": "Deluxe Fertilizer"
+		},
+		{
 			"buy": 100,
 			"growth_rate": 0.1,
 			"id": "speed_gro",
@@ -1063,7 +1067,13 @@
 			"growth_rate": 0.25,
 			"id": "delux_speed_gro",
 			"name": "Delux Speed-Gro"
-		}
+		},
+		{
+			"buy": 0,
+			"growth_rate": 0.33,
+			"id": "hyper_speed_gro",
+			"name": "DHyper Speed-Gro"
+		},
 	],
 	"events": {
 		"spring": [
